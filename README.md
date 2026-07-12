@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="meu-banner.svg" alt="Banner personalizado" width="100%" />
-</p>
-
 <!-- ==================== BANNER COM CAPSULE RENDER ==================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=JoaoCleiton4S&color=gradient&reversal=true" alt="Banner" width="100%" />
