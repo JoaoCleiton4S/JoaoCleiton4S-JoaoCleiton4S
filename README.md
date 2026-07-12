@@ -1,4 +1,5 @@
 # JoaoCleiton4S-JoaoCleiton4S
+<img src="img1.gif" alt="img1 personalizado" />
 
 <!-- ==================== CABEÇALHO ==================== -->
 <h1 align="center">Olá! Eu sou o João Cleiton 👋</h1>
