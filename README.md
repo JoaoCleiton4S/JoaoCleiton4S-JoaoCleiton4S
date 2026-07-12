@@ -48,8 +48,10 @@
 <h2>📊 Minhas estatísticas</h2>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=J.C.S&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats">
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JoaoCleiton4S&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoCleiton4S&layout=compact&theme=radical" alt="Top Langs">
+</div>
 </p>
 
 ---
