@@ -21,12 +21,11 @@
 </p>
 
 <!-- ==================== SOBRE MIM ==================== -->
-<h2>⚡ Sobre mim</h2>
+<h2>⚡ Não tenho nada muito interessantte para falar no momento, provavelmente estou criando mods agora.</h2>
 
-👨‍💻 Atualmente estou mergulhando no mundo do **desenvolvimento web** e **ciência de dados**.<br>
-🌱 Sempre aprendendo algo novo – hoje estou focado em **JavaScript** e **React**.<br>
-💬 Pergunte-me sobre **tecnologia, música ou viagens** – adoro uma boa conversa!<br>
-📫 Meu e-mail para contato: **seuemail@email.com**
+👨‍💻 Atualmente estou mergulhando no mundo do **desenvolvimento web**.<br>
+🌱 Sempre aprendendo algo novo – hoje estou focado em **JavaScript** e **Java**.<br>
+📫 Meu e-mail para contato: **joaocleiton308@gmail.com**
 
 ---
 
@@ -44,27 +43,8 @@
 
 ---
 
-<!-- ==================== ESTATÍSTICAS DO GITHUB ==================== -->
-<h2>📊 Minhas estatísticas</h2>
-
-<p align="center">
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JoaoCleiton4S&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoCleiton4S&layout=compact&theme=radical" alt="Top Langs">
-</div>
-</p>
-
----
-
 <!-- ==================== PROJETOS EM DESTAQUE ==================== -->
 <h2>📌 Projetos em destaque</h2>
 
 - **[Meu Primeiro Projeto](https://github.com/JoaoCleiton4S/nome-do-repositorio)** – Breve descrição.
 - **[Outro Projeto Legal](https://github.com/JoaoCleiton4S/outro-repositorio)** – Breve descrição.
-
----
-
-<!-- ==================== FRASE DE EFEITO ==================== -->
-<p align="center">
-  <i>"A persistência é o caminho do êxito." – Charles Chaplin</i>
-</p>
